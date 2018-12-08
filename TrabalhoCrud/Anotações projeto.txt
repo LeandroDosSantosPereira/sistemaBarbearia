@@ -1,0 +1,4 @@
+cep
+data de nascimento do cliente
+possibilidade de personalizar o programa
+fechar caixa(contas a pagar, contas a receber, contas a efetuar, formas de recebimento e pagamento, estoque)
